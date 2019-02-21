@@ -1,0 +1,20 @@
+
+; <<>> DiG 9.11.3-1ubuntu1.3-Ubuntu <<>> aladdin-rd.ru
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 18391
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 65494
+;; QUESTION SECTION:
+;aladdin-rd.ru.			IN	A
+
+;; ANSWER SECTION:
+aladdin-rd.ru.		300	IN	A	62.213.76.107
+
+;; Query time: 236 msec
+;; SERVER: 127.0.0.53#53(127.0.0.53)
+;; WHEN: Thu Feb 21 12:12:13 MSK 2019
+;; MSG SIZE  rcvd: 58
+
